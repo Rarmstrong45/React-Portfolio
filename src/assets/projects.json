@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Trade-up",
+        "image": "https://github.com/Rarmstrong45/trade-up/blob/main/img/Screenshot-main-page.png?raw=true",
+        "description": "Trade-up is an interactive, responsive, full-stack project that allows users to trade video games with others.",
+        "tools": "bcrypt, dotenv, sequelize, mysql2, express, handlebars, file-upload-with-preview",
+        "gitLink": "https://github.com/Rarmstrong45/trade-up",
+        "deployedLink": "https://p2g3-trade-up.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "title": "Movie Mixer",
+        "image": "https://user-images.githubusercontent.com/79684575/117177524-f950a680-ad85-11eb-804d-65d6b10c6c3d.png",
+        "description": "Movie Mixer application was designed with the user in mind. It provides functionality that makes the process of selecting a movie and drink for a night in seamless.",
+        "tools": "HTML, JQuery, JavaScript, Github, Bulma CSS, Coctail DB API, OTT details API",
+        "gitLink": "https://github.com/Rarmstrong45/MovieMixer",
+        "deployedLink": "https://rarmstrong45.github.io/MovieMixer/"
+    },
+    {
+        "id": 3,
+        "title": "Budget Tracker",
+        "image": "https://github.com/Rarmstrong45/PWA-Online-Offline-Budget-Tracker/blob/main/Screenshot.JPG?raw=true",
+        "description": "This project takes provided starter code for a database enabled budget tracker and converts it into a functional Progressive Web Application (PWA) with offline access and functionality.",
+        "tools": "JavaScript / Node.js / Express.js / MongoDB / Mongoose / Cache API / Indexed DB",
+        "gitLink": "https://github.com/Rarmstrong45/PWA-Online-Offline-Budget-Tracker",
+        "deployedLink": "https://obscure-taiga-93952.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "title": "Ready Set Goal",
+        "image": "https://github.com/kunkelkevin/Ready-Set-Goal/blob/main/Screenshot-main-page.png?raw=true",
+        "description": "An application to find and create local soccer pickup games",
+        "tools": "React / MongoDB / Mongoose / Graphql / Styled-components ",
+        "gitLink": "https://github.com/Rarmstrong45/Ready-Set-Goal",
+        "deployedLink": "https://ready-set-goal.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "title": "Quiz Maester",
+        "image": "https://github.com/Rarmstrong45/Quiz-Maester/blob/main/assets/images/Screenshot.JPG?raw=true",
+        "description": "This is a Javascript Quiz app.",
+        "tools": "HTML / JavaScript / CSS",
+        "gitLink": "https://github.com/Rarmstrong45/Quiz-Maester",
+        "deployedLink": "https://rarmstrong45.github.io/Quiz-Maester/"
+    },
+    {
+        "id": 6,
+        "title": "Storm Tracker 3000",
+        "image": "https://github.com/Rarmstrong45/Storm-Tracker-3000/blob/main/image/Screenshot.JPG?raw=true",
+        "description": "Storm Tracker 3000 is a quick way to search for a 5 day forcast in any city. This app will allow you to search a city save the data in local storage and clear the entire page with a click of the button",
+        "tools": "JavaScript / jQuery / Bootstrap / moment.js / Open Weather Map / HTML.",
+        "gitLink": "https://github.com/kpehl/work-day-scheduler",
+        "deployedLink": "https://kpehl.github.io/work-day-scheduler/"
+    }
+  ]
+  
